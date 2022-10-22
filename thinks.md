@@ -1,3 +1,5 @@
+- Git histories are showing the comments, not the text, so I guess ideally, I'd force them to be the same.
+
 - I really need to add an action to this to validate the file (short thinks) and fill in metadata.
 
 - This is my first `think`. Please figure out how to reply, re-think, and follow me & aggregate all such similar thinks.
