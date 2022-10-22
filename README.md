@@ -28,7 +28,7 @@ How to start your own
 
 Social Features of a Git Repo
 ---
-- Follow my account [mattthewdeanmartin](https://github.com/matthewdeanmartin)
+- Follow my account [mattthewdeanmartin](https://github.com/matthewdeanmartin) 
 - Watch this repo [watch](https://github.com/matthewdeanmartin/thinks).
 - Star this repo [watch](https://github.com/matthewdeanmartin/thinks)
 - Your Github notification feed now plays some of the role of the twitter newsfeed, but it will not have the stream of commits from all the `thinks` repos you follow
@@ -45,6 +45,8 @@ Conversations
 - Comment on a commit. Same as reply to a tweet. You can like a reply to a commit comment, but not the original commit.
 - Open an Issue. Same a mention, `@so_and_so what's up?`. I think this is also where blog posts would go.
 - Fork and open a pull request. This probably would be best for community editing (fixing spelling, etc). This will let someone else add to the commit stream, so you really would need to read it with `blame` annotation for anything to make sense. Also if anyone edits someone else's text, even blame will confuse the conversation.
+- View in a `thinks`-unaware way your conversations in the [github notifications](https://github.com/notifications)
+- Also your email client becomes part of the overal experience
 
 Actions
 ---
