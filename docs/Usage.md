@@ -71,9 +71,6 @@ pipenv shell
 python -m thinks -reply "<url to think>" "cool!"
 ```
 
-# Other Built In Social Things
-- Issues = Blog. I don't know if there natively is an RSS feed for Issues.
-- Wiki = Wiki. I'm not sure how collaborative 
 
 ```bash
 pipenv shell
