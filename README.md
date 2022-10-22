@@ -4,7 +4,17 @@ Minimalist Social Media Experiment...on Github...alternative to Twitter in case 
 To read what I think
 [Thinks Feed](thinks.md)
 
-I haven't worked out follow, aggregate, re-think, etc yet. Github's interface on its own isn't actually a replacement for twitter.
+General Idea
+---
+What if we used the features of Github to simulate Twitter?
+
+- A place to write short texts in an evergrowing markdown file.
+- A place for long posts in the Issues section
+- A way to reply to `thinks` via commit comments
+- A way to aggregate the commits to any other similar repo (repos with a text file that someone logs new activities or thoughts to)
+   - The `thinks` file could be just lines, i.e. any CR deliminted file, so people unaware of the `thinks` format could be followed
+   - The `thinks` file could be based on the CHANGES.md format (except it would be chronological life events and thoughts, not library bug fixes)
+   - The `follow/friend` list could be based on the AUTHORS format
 
 Prior Art
 ---
