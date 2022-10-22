@@ -5,6 +5,9 @@ To read what I think
  - [Thinks Feed](thinks.md)
  - [Commit history](https://github.com/matthewdeanmartin/thinks/commits/main/thinks.md) (click commit hash to see comments on each `think`)
 
+Unadvisedly, I'm putting my `thinks` and the support code that transforms them into friendly html & generates
+a feed of people I follow all in the same repo.
+
 General Idea
 ---
 What if we used the features of Github to simulate Twitter?
@@ -53,6 +56,7 @@ Actions
 ---
 - The developer oriented UI isn't going to be the best UI, so naturally we'd want to compile the text to a static website for reading and aggregating content. It would have links back to the regular github website for the interaction/replies/etc.
 
-
-
-
+Docs
+----
+- [TODO](docs/TODO.md)
+- [Usage](docs/Usage.md)
